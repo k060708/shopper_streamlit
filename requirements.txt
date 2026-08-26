@@ -1,9 +1,7 @@
 streamlit
-pandas 
+pandas
 numpy
-pickle
-sklearn.feature_extraction.text
-sklearn.metrics.pairwise
-streamlit_option_menu
-matplotlib.pyplot
+scikit-learn
+streamlit-option-menu
+matplotlib
 seaborn
